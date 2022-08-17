@@ -1,3 +1,11 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fa0b7d5-e6bb-4e45-af12-c6a4adea3911/deploy-status)](https://app.netlify.com/sites/solidjs-todo/deploys)
+
+This is just an implementation of a todo-app in solidjs.
+
+You can have a look at it [here](https://solidjs-todo.netlify.app/).
+
+Below you can find the docs provided by the solid-template.
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
